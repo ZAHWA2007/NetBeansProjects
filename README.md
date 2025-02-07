@@ -32,8 +32,11 @@ b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 5.	Tampilkan Hasil
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
-![kalkulator jav](https://github.com/user-attachments/assets/5ac779bd-372d-4d39-b664-793a59f0de95)
 
+
+
+
+![kalkulator jav](https://github.com/user-attachments/assets/34ec769f-5b2a-4fe2-9d82-3055bc7a47d0)
 
 
 
